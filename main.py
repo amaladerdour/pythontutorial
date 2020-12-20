@@ -1,3 +1,3 @@
-print('Hello, My name is Amal')
-a = 67
-print(a)
+import cv2 as cv
+
+print(cv.__version__)
